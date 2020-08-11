@@ -12,7 +12,7 @@ enum layer_number {
 enum custom_keycodes {
   RGB_RST = SAFE_RANGE,
   IN_BRC,  // ※日本語入力時、すみかっこ"【】"を入力してかっこ内にカーソルを移動する
-  MGDL,  // mg/dlを入力する
+  MGDL,  // ※英語入力時、mg/dlを入力する
 };
 
 // Macスリープ
